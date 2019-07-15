@@ -1,0 +1,28 @@
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font: 2em sans-serif;
+}
+h2{
+  text-align:center;
+  font-family: 'Courier New', Courier, monospace;
+  font: 8em sans-serif;
+}
+h3{
+  text-align: center;
+  font: 1em sans-serif;
+  font-size: 15px;
+}
+.jombotron{
+  text-align: center;
+  font: 2em sans-serif;
+}
+.ana{
+
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font: 2em sans-serif;
+}
